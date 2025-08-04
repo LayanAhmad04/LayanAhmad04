@@ -23,7 +23,7 @@ I’ve worked on a range of exciting projects, from an AI-powered social media e
 
 ---
 
-## 🚗 What I Love
+## What I Love
 - 👩‍💻 Designing tech with a human touch  
 - 🧪 Building explainable AI systems  
 - 🚘 Dreaming of applying CS in the automobile industry  
@@ -33,7 +33,7 @@ I’ve worked on a range of exciting projects, from an AI-powered social media e
 
 ## 🛠️ Projects I’m Proud Of
 - **ClarifAI** – AI-powered media detector for social platforms  
-- **SkillSwap** – Full-stack skill-trading platform built with Next.js  
+- **VR Breast Cancer Awareness Experience** – An immersive Unity-based experience to educate and spread awareness about breast cancer 
 - **E-Commerce Android App** – Kotlin-based shopping experience with Firebase backend
 
 ---
