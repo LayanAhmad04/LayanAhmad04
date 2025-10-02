@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Graduate**  
 📍 Based in the UAE  
-🧠 Passionate about **AI, UX Design, and Automobiles**
+🧠 Passionate about **AI, UI/UX, and Web development**
 
 ---
 
