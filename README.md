@@ -27,7 +27,6 @@ I’ve worked on a range of exciting projects, from an AI-powered social media e
 - 👩‍💻 Designing tech with a human touch  
 - 🧪 Building explainable AI systems  
 - 🚘 Dreaming of applying CS in the automobile industry  
-- 📚 Reading epic fantasy (*Mistborn* and *The Lies of Locke Lamora* are personal favorites)
 
 ---
 
